@@ -1,0 +1,9 @@
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\bin\Debug\Syed_Rumail_EXERCISE03.exe.config
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\bin\Debug\Syed_Rumail_EXERCISE03.exe
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\bin\Debug\Syed_Rumail_EXERCISE03.pdb
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\obj\Debug\Syed_Rumail_EXERCISE03.csprojAssemblyReference.cache
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\obj\Debug\Syed_Rumail_EXERCISE03.Form1.resources
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\obj\Debug\Syed_Rumail_EXERCISE03.Properties.Resources.resources
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\obj\Debug\Syed_Rumail_EXERCISE03.csproj.GenerateResource.cache
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\obj\Debug\Syed_Rumail_EXERCISE03.exe
+D:\COMP212\TEST02\Syed_Rumail_COMP212_SEC005_TEST02\Syed_Rumail_EXERCISE03\obj\Debug\Syed_Rumail_EXERCISE03.pdb

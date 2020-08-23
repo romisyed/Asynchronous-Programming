@@ -1,0 +1,10 @@
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\bin\Debug\Syed_Rumail_EXERCISE03.exe.config
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\bin\Debug\Syed_Rumail_EXERCISE03.exe
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\bin\Debug\Syed_Rumail_EXERCISE03.pdb
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\obj\Debug\Syed-Rumail_Exercise03.csprojAssemblyReference.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\obj\Debug\Syed_Rumail_EXERCISE03.Form1.resources
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\obj\Debug\Syed_Rumail_EXERCISE03.Properties.Resources.resources
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\obj\Debug\Syed-Rumail_Exercise03.csproj.GenerateResource.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\obj\Debug\Syed-Rumail_Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\obj\Debug\Syed_Rumail_EXERCISE03.exe
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\Syed-Rumail_Exercise03\obj\Debug\Syed_Rumail_EXERCISE03.pdb
